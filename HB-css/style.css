@@ -1,0 +1,37 @@
+/* Hayley Ball styling */
+
+/* Hero section */
+.jumbotron {
+    background: url("../HB-images/element5-digital-OyCl7Y4y0Bk-unsplash-2.jpg") no-repeat center;
+    width: 100vw;
+    height: 100vh;
+}
+.btn-primary {
+    background-color: #c60063;
+    border-color: #c60063;
+}
+
+/* Services section */
+.btn-secondary {
+    background-color: transparent;
+    border-color: #c60063;
+    color: #c60063;
+}
+
+/* Contact section */
+#contact {
+    background: url("../HB-images/jess-bailey-l3N9Q27zULw-unsplash-2.jpg") no-repeat center;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+/* Footer section */
+.footer a {
+    text-decoration: none;
+    color: orange;
+  }
+  .footer a:hover {
+    color: deeppink;
+  }
+
